@@ -1,2 +1,2 @@
-# Materijali-za-u-enje
+# Materijali-za-ucenje
 Java i spring
