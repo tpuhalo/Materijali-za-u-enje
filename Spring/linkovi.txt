@@ -1,0 +1,14 @@
+Angular:
+https://www.youtube.com/watch?v=tnXO-i7944M
+https://angularjs.org/
+
+
+Predavanja:
+https://docs.google.com/document/d/1b8mVkYGj7Iq76EtT_P2puAR0h9N-amiGUSbNyVqEmyY/edit#heading=h.27fjs3337pwe
+https://docs.google.com/document/d/15FZ97T3AgSt6v3ovUptPP8kQxlAureGJy24rF9-34nE/edit#
+https://docs.google.com/document/d/1DVnjqdtajRprUm-BDCVV-7y_1CHDPQqzqOjLH7aBgvc/edit#heading=h.9obcd44ueevt
+https://docs.google.com/document/d/1AMV2tt2qB2MeyfjTUBDcW6HusRNAjx9bH6Y5-z2Usvo/edit
+https://docs.google.com/document/d/1TIWmyhRcD5erEMqC7cZM-vfjcqprMRZIp6hfRCYyvNI/edit#
+
+kod:
+https://github.com/velimirg/napredna-java-2014/tree/master
